@@ -37,10 +37,10 @@ const Footer = () => {
                 </div>
 
                 <div className="flex justify-center gap-5 pt-1">
-                    <a href="https://github.com/sauravkumar" target="_blank" rel="noopener noreferrer" className="text-ink-faint hover:text-accent transition-colors duration-200" aria-label="GitHub">
+                    <a href="https://github.com/SK-15" target="_blank" rel="noopener noreferrer" className="text-ink-faint hover:text-accent transition-colors duration-200" aria-label="GitHub">
                         <Github size={18} />
                     </a>
-                    <a href="https://linkedin.com/in/sauravkumar" target="_blank" rel="noopener noreferrer" className="text-ink-faint hover:text-accent transition-colors duration-200" aria-label="LinkedIn">
+                    <a href="https://www.linkedin.com/in/sauravkumar1503/" target="_blank" rel="noopener noreferrer" className="text-ink-faint hover:text-accent transition-colors duration-200" aria-label="LinkedIn">
                         <Linkedin size={18} />
                     </a>
                     <a href="mailto:sauravkumar585@gmail.com" className="text-ink-faint hover:text-accent transition-colors duration-200" aria-label="Email">
